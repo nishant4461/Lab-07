@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab-07</string>
+    <string name="weather_api_key" />
+</resources>

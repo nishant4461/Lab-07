@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextCityName" type="id" />
+    <item name="buttonGetWeather" type="id" />
+    <item name="textViewTemperature" type="id" />
+    <item name="textViewCityName" type="id" />
+    <item name="weatherIcon" type="id" />
+    <item name="minTemp" type="id" />
+    <item name="maxTemp" type="id" />
+    <item name="textViewHumidity" type="id" />
+    <item name="description" type="id" />
+    <item name="appTitle" type="id" />
+</resources>
